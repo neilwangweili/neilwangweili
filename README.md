@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VWWL
 - 👀 I’m interested in reading and coding.
-- 🌱 I’m currently learning spring-cloud-stream.
+- 🌱 I am an extreme programming practitioner, committed to software engineering excellence, to change the world’s stereotyped perception of Chinese software.
 - 📫 How to reach me vx:wangweili457@gmail.com
 
 <!---
