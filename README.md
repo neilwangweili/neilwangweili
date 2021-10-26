@@ -13,9 +13,6 @@
 
 ## Contact
 - 🥣 My website: https://neilwang.wiki
-- 🌟 WeChat:
-<img src="https://raw.githubusercontent.com/VWWL/neil-s-tech-repository/master/wechat.jpg" width="30%" height="30%">
-
 - 🐶 Gmail: wangweili457@gmail.com
 - 🤔 XP website: http://extremeprogramming.cn
 
