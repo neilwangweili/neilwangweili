@@ -18,7 +18,7 @@
   <span> See my open source projects: &nbsp;&nbsp;</span>
     <a href="https://github.com/SprintingCrab"><img height="30" src="https://avatars.githubusercontent.com/u/93175082?s=200&v=4"></a>&nbsp;&nbsp;
     <a href="https://github.com/Dectub"><img height="30" src="https://avatars.githubusercontent.com/u/93177708?s=200&v=4"></a>&nbsp;&nbsp;
-    <a href="https://github.com/Extraty-cool"><img height="30" src="https://avatars.githubusercontent.com/u/93178161?s=200&v=4"></a>
+    <a href="https://github.com/Extraty-cool"><img height="30" src="https://avatars.githubusercontent.com/u/93178161?s=400&u=3612fd0f2dd37a81bf1475c973f2e169100e4ca0&v=4"></a>
  </p>
 
  Reach me via e-mail: [wangweili457@gmail.com](mailto:wangweili457@gmail.com) 📫
