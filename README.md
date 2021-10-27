@@ -25,5 +25,4 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VWWL&layout=compact&exclude_repo=sumy7.github.io">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=VWWL" />
 </p>
