@@ -23,6 +23,3 @@
 
  Reach me via e-mail: [wangweili457@gmail.com](mailto:wangweili457@gmail.com) 📫
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VWWL&layout=compact&exclude_repo=sumy7.github.io">
-</p>
