@@ -12,7 +12,7 @@
 - I want to let the flowers of agile across the land of China and let codes in China be better. <br/><br/>
 
 ## Find me around the web 🌎:<a href="https://github.com/VWWL"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/59614059?v=4"></a>
- Subscribe my newest ideas and articles: [neilwang.wiki/zh/subscribe/](https://neilwang.wiki/zh/subscribe/index.html) 💼
+ Subscribe my latest ideas and articles: [neilwang.wiki/zh/subscribe/](https://neilwang.wiki/zh/subscribe/index.html) 💼
 
 <p align='left'>
   <span> See my open source projects: &nbsp;&nbsp;</span>
