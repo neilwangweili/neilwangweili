@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Neil Wang. 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=VWWL&show_icon=true">
 <p align='left'>
-    <a href="https://neilwang.wiki"><img height="25" width="25" src="https://neilwang.wiki/img/icon.png"></a>&nbsp;&nbsp;
+    <a href="https://vwwl.github.io/neilwang_wiki"><img height="25" width="25" src="https://neilwang.wiki/img/icon.png"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/NeilWan95704249"><img height="30" src="https://pbs.twimg.com/profile_images/1354533298685566983/2mZQ3Lpt_400x400.jpg"></a>&nbsp;&nbsp;
     <a href="https://www.zhihu.com/people/zhe-huo-bu-shi-lao-wang"><img height="30" src="https://strawberryamoszc.oss-cn-shanghai.aliyuncs.com/github/icon/zhihu.png"></a>
     <a href="http://links.neilwang.wiki/qq"><img height="30" src="https://www.logo.wine/a/logo/Tencent_QQ/Tencent_QQ-Logo.wine.svg"></a>
