@@ -8,7 +8,7 @@
  </p>
 
 - I am an extreme programming practitioner, using TDD, XP, DDD, committed to software engineering excellence. 
-- I am going to obtain CSM, CST certificate.
+- I am going to obtain CSM, CSD certificate.
 
 ## Find me around the web 🌎:<a href="https://github.com/neilwangweili"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/59614059?v=4"></a>
  Subscribe my latest ideas and articles: [neilwang.wiki/zh/subscribe/](https://neilwang.wiki/zh/subscribe/index.html) 💼
